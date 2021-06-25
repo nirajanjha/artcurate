@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/artcurate/static/css/main.6447a6c6.chunk.css",
+    "main.js": "/artcurate/static/js/main.6d10b35d.chunk.js",
+    "main.js.map": "/artcurate/static/js/main.6d10b35d.chunk.js.map",
+    "runtime-main.js": "/artcurate/static/js/runtime-main.28ebc0d8.js",
+    "runtime-main.js.map": "/artcurate/static/js/runtime-main.28ebc0d8.js.map",
+    "static/css/2.29b50a18.chunk.css": "/artcurate/static/css/2.29b50a18.chunk.css",
+    "static/js/2.82fbfa18.chunk.js": "/artcurate/static/js/2.82fbfa18.chunk.js",
+    "static/js/2.82fbfa18.chunk.js.map": "/artcurate/static/js/2.82fbfa18.chunk.js.map",
+    "index.html": "/artcurate/index.html",
+    "static/css/2.29b50a18.chunk.css.map": "/artcurate/static/css/2.29b50a18.chunk.css.map",
+    "static/css/main.6447a6c6.chunk.css.map": "/artcurate/static/css/main.6447a6c6.chunk.css.map",
+    "static/js/2.82fbfa18.chunk.js.LICENSE.txt": "/artcurate/static/js/2.82fbfa18.chunk.js.LICENSE.txt",
+    "static/media/Artist5.png": "/artcurate/static/media/Artist5.f1c6a879.png",
+    "static/media/artist1.650ca262.png": "/artcurate/static/media/artist1.650ca262.png",
+    "static/media/cart.ba09be45.svg": "/artcurate/static/media/cart.ba09be45.svg",
+    "static/media/essential-location.2d94e15b.svg": "/artcurate/static/media/essential-location.2d94e15b.svg",
+    "static/media/font-awesome.min.css": "/artcurate/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ebc0d8.js",
+    "static/css/2.29b50a18.chunk.css",
+    "static/js/2.82fbfa18.chunk.js",
+    "static/css/main.6447a6c6.chunk.css",
+    "static/js/main.6d10b35d.chunk.js"
+  ]
+}
